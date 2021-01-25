@@ -1,7 +1,10 @@
 # NoBedRaiding
 Silly Rust game plugin to control offline raiding.
 
+# Installation guide
 Requires Oxide on the server.
+
+Google how to install an Oxide / umod plugin for rust. It's the same thing. NoBedRaiding.cs is the plugin, NoBedRaiding.json is the configuration.
 
 Should use the clan plugin with this. https://umod.org/plugins/clans
 
