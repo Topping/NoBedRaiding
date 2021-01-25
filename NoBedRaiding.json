@@ -1,0 +1,21 @@
+{
+  "playSound": false,
+  "prefabs": [
+    "door.hinged",
+    "door.double.hinged",
+    "window.bars",
+    "floor.ladder.hatch",
+    "floor.frame",
+    "wall.frame",
+    "shutter",
+    "wall.external",
+    "gates.external",
+    "box",
+    "locker"
+  ],
+  "raidTimeEnd": "22:00",
+  "raidTimeStart": "17:00",
+  "showMessage": true,
+  "sound": "assets/prefabs/weapon mods/silencers/effects/silencer_attach.fx.prefab",
+  "VERSION": "0.1.0"
+}
